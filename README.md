@@ -19,7 +19,7 @@ Python script to exploit the [livechat's speed test](https://www.livechat.com/ty
 <br>
 
 ## Running the script
-1. Download the chromedriver, renamed it to ```chromedriver_win32.exe``` and place it on ```~/chrome_driver/```.
+1. Download the chromedriver, rename it to ```chromedriver_win32.exe``` and place it on ```chrome_driver/```.
 2. Have fun.
 ```console
 $ python main.py
